@@ -1,2 +1,3 @@
+import datetime
 if __name__=='__main__':
- print 10/6
+ print datetime.datetime.now()
