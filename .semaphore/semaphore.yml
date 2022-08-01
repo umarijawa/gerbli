@@ -3,7 +3,7 @@ name: mpyexample
 agent:
   machine:
     type: e1-standard-2
-    os_image: ubuntur2204
+    os_image: ubuntu2204
 execution_time_limit:
   hours: 3
 blocks:
